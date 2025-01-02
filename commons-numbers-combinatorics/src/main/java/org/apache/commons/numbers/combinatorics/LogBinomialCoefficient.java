@@ -17,7 +17,7 @@
 
 package org.apache.commons.numbers.combinatorics;
 
-import org.apache.commons.numbers.gamma.LogBeta;
+import org.apache.commons.numbers.gamma.LogBeta; 
 
 /**
  * Natural logarithm of the <a href="http://mathworld.wolfram.com/BinomialCoefficient.html">
